@@ -5,4 +5,4 @@ It has four main features including (1) Self Assessment (2) Contact A Friend (3)
 
 This is a group project by a 4-people group. I am responsible for the login, timer(Breathing Exercise), assessment result pages and js codes of message page and call friend pages.
 
-Start from index.html please.
+Demo: https://ziyang-wu.github.io/HCI-Project-Mindspace/
